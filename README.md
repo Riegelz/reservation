@@ -42,15 +42,11 @@ npm run docker:test
 # Port number
 PORT=3000
 
-# URL of the Mongo DB
-MONGODB_URL=mongodb://127.0.0.1:27017/node-boilerplate
-
 # Reserv Config
 SEAT_PER_TABLE=4
 TOTAL_TABLE=10
 
 # JWT
-# JWT secret key
 JWT_SAMPLE_EMAIL=asadej.w@gmail.com
 JWT_SAMPLE_PASSWORD=Test1234
 JWT_ACCESS_TOKEN_SECRET=EiKf9vBVMW0Qiu6EWgzwU7PyCdD0BLxv7ks4kTe4fXvGPDYsS3QT3wugV4ReGopt
